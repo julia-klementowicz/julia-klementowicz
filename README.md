@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 An experienced Front-End Software Engineer skilled in leading the development of complex web applications, writing clean and maintainable code, and collaborating effectively in a team environment to deliver solutions that meet client requirements.</p>
+<h3 align="left">💻 An experienced Front-End Software Engineer</h3>
 
 ###
 
